@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid97-kai&theme=blue-green)
 --------------------------------------------------------------------
 ## 3. Random Joke Generator
-## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 --------------------------------------------------------------------
 ## 4. Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=Zaid97-kai"/>
---------------------------------------------------------------------
