@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Zaid97-kai&show_icons=true)
 --------------------------------------------------------------------
