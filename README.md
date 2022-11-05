@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Zaid97-kai&show_icons=true)
-
+# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
+## 1. GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Zaid97-kai&show_icons=true)
+--------------------------------------------------------------------
+## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid97-kai&theme=blue-green)
+--------------------------------------------------------------------
+## 3. Random Joke Generator
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+--------------------------------------------------------------------
+## 4. Profile View Counter
+<img src="https://komarev.com/ghpvc/?username=Zaid97-kai"/>
+### HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Zaid97-kai/)
+--------------------------------------------------------------------
