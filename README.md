@@ -28,6 +28,4 @@ Here are some ideas to get you started:
 --------------------------------------------------------------------
 ## 4. Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=Zaid97-kai"/>
-### HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Zaid97-kai/)
 --------------------------------------------------------------------
